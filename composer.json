@@ -1,0 +1,6 @@
+{
+    "name": "hexinhui/wechat-biz",
+    "require": {
+        "overtrue/wechat": "2.0.20"
+    }
+}
