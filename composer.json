@@ -2,5 +2,18 @@
     "name": "hexinhui/wechat-biz",
     "require": {
         "overtrue/wechat": "2.0.20"
+    },
+
+    "authors": [
+        {
+            "name": "shoaly",
+            "email": "shoalyxiao@gmail.com"
+        }
+    ],
+    "minimum-stability" : "dev-master",
+    "autoload": {
+        "psr-4": {
+            "Hexinhui\\WechatBiz\\Wechat": "src/Wechat/"
+        }
     }
 }
