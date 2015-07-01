@@ -10,10 +10,10 @@
             "email": "shoalyxiao@gmail.com"
         }
     ],
-    "minimum-stability" : "dev-master",
+    "minimum-stability" : "dev",
     "autoload": {
         "psr-4": {
-            "Hexinhui\\WechatBiz\\Wechat": "src/Wechat/"
+            "Hexinhui\\WechatBiz\\Wechat\\": "src/Wechat/"
         }
     }
 }
