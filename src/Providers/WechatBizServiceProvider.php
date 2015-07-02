@@ -7,7 +7,7 @@ use Illuminate\Support\ServiceProvider;
  * @see \Illuminate\Auth\AuthManager
  * @see \Illuminate\Auth\Guard
  */
-class WechatServiceProvider extends ServiceProvider{
+class WechatBizServiceProvider extends ServiceProvider{
 
 
     public function register()  {
