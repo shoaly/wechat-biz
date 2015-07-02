@@ -17,7 +17,6 @@
             "Hexinhui\\WechatBiz\\Facades\\": "src/Facades/",
             "Hexinhui\\WechatBiz\\Providers\\": "src/WProviders/",
             "Hexinhui\\WechatBiz\\Utils\\": "src/Utils/"
-            // "Overtrue\\Wechat\\": "src/Wechat/"
         }
     }
 }
